@@ -18,6 +18,7 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+project/project
 .history
 .cache
 .lib/
@@ -27,7 +28,7 @@ project/plugins/project/
 *.log
 
 ### vscode ###
-.vscode/*
+.vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
